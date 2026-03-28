@@ -34,6 +34,6 @@ COMANDOS GIT PRINCIPALES:
 - Push
 
 ## Cambios realizados en la Actividad 3
-- Se agregaron nuevas sección de Objetivo del proyecto
-- Se mejoraron estilos, haciéndolos más responsivos
+- Se agregó nueva sección al HTML: Objetivo del proyecto
+- Se mejoró la responsividad del sitio por medio de un ligero ajuste de estilos
 - Se trabajó de forma colaborativa con ramas
