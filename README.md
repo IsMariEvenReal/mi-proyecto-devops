@@ -32,3 +32,8 @@ COMANDOS GIT PRINCIPALES:
 - Add
 - Commit
 - Push
+
+## Cambios realizados en la Actividad 3
+- Se agregaron nuevas sección de Objetivo del proyecto
+- Se mejoraron estilos, haciéndolos más responsivos
+- Se trabajó de forma colaborativa con ramas
